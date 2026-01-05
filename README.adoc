@@ -11,10 +11,9 @@
 * 各ディレクトリに配置しているzipファイルをダウンロード +
 * ダウンロードしたzipファイルを解凍し、StellarisのMODフォルダにぶち込んでください。 +
  
-[cols="1,1,10,1" grid=all options="autowidth"]
-
+[cols=">1,<1,<10,^1" grid=all options="autowidth"]
 |===
 | No. | フォルダ | MOD名 | 対応Ver.
-| 1 | portrait_aigis | オリジナル種族「アイギス」ポートレート | 4.\*.*
+| 1 | portrait_aigis | オリジナル種族「アイギス」ポートレート |4.\*.*
 | 2 | portrait_crydrg | ふっとら風クリスタルドラゴン娘ポートレート | 4.\*.*
-
+|===
