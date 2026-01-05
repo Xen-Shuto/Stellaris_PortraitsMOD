@@ -4,7 +4,7 @@
 :toc-title: 目次
 
 == 1.説明
-https://github.com/SubUnit-D817/species_portrait_template[species_portrait_template] で作成したオリジナルポートレートです。 +
+https://github.com/Xen-Shuto/species_portrait_template[species_portrait_template] で作成したオリジナルポートレートです。 +
 有機生命体と機械種族のポートレート「アイギス」が追加されます。 +
 名称リスト「アイギス」および「アイギス（機械）」も追加されます。 +
 女性の画像のみですので、名前設定時に性別を女性または性別不詳を選択してください。 +
