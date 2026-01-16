@@ -7,7 +7,11 @@
 拙作のStellaris用ポートレートMODテンプレート（ https://github.com/Xen-Shuto/species_portrait_template[species_portrait_template] ）を使用して作成したポートレートMOD置き場です。 +
 ポートレートで使用している画像は全て生成AIを用いて作成しています。 +
  
-== 2.使い方
+== 2.利用規約（ライセンス）
+本リポジトリ内のMODを利用・参照する際は、必ず link:LICENSE[LICENSE] ファイルをご確認ください。 +
+本作品は非公式のファンコンテンツであり、作者（Xen-Shuto）や公式（Paradox Interactive）を騙る行為、および商用利用・改変再配布を禁止しています。 +
+
+== 3.使い方
 * 各ディレクトリに配置しているzipファイルをダウンロード +
 * ダウンロードしたzipファイルを解凍し、StellarisのMODフォルダにぶち込んでください。 +
 ※通常であれば「ドキュメント/Paradox Interactive/Stellaris/mod」になります。 +
@@ -18,4 +22,5 @@
 | 1 | portrait_aigis | オリジナル種族「アイギス」ポートレート
 | 2 | portrait_crydrg | ふっとら風クリスタルドラゴン娘ポートレート
 |===
+
 
