@@ -4,7 +4,7 @@
 :toc-title: 目次
 
 == 1.このリポジトリについて
-拙作のStellaris用ポートレートMODテンプレート（ https://github.com/Xen-Shuto/species_portrait_template[species_portrait_template] ）を使用して作成したポートレートMOD置き場です。 +
+拙作のStellarisポートレートMOD作成用テンプレート（ https://github.com/Xen-Shuto/species_portrait_template[species_portrait_template] ）を使用して作成したポートレートMOD置き場です。 +
 ポートレートで使用している画像は全て生成AIを用いて作成しています。 +
  
 == 2.利用規約（ライセンス）
@@ -22,5 +22,6 @@
 | 1 | portrait_aigis | オリジナル種族「アイギス」ポートレート
 | 2 | portrait_crydrg | ふっとら風クリスタルドラゴン娘ポートレート
 |===
+
 
 
