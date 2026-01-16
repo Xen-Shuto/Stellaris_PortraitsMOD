@@ -1,0 +1,27 @@
+= さとー風ダイダロス型ポートレート
+:author: Xen-Shuto
+:toc: left
+:toc-title: 目次
+
+== 1.説明
+https://github.com/Xen-Shuto/species_portrait_template[species_portrait_template] で作成したオリジナルポートレートです。 +
+機械種族のポートレート「機巧天使」が追加されます。 +
+名称リスト「機巧天使」も追加されます。 +
+女性の画像のみですので、名前設定時に性別を女性または性別不詳を選択してください。 +
+名称リストは自由に選択してください。 +
+ +
+名称リストは個別的機械 2ベースとなっています。 +
+ +
+Steamワークショップでも公開しています。 +
+https://steamcommunity.com/sharedfiles/filedetails/?id=3647504504 +
+
+== 2.イメージ
+image::Sample.png[]
+image::Sample_1.png[]
+image::Sample_2.png[]
+image::Sample_3.png[]
+image::Sample_4.png[]
+ 
+== 3.謝辞
+　基となるダイダロス型の生みの親である、さとー様に +
+　このポートレートMODの公開を快く承諾いただきましたこと、心より感謝申し上げます。 +
